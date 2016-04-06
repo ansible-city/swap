@@ -3,7 +3,7 @@
 galaxy_info:
   author: Wojtek Oledzki
   company: Voytek Solutions Ltd
-  description:
+  description: Adds swap memmory and configures swappiness
   github_branch: master
   license: MIT
   min_ansible_version: 1.9
